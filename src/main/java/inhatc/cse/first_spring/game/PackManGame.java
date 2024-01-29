@@ -1,8 +1,10 @@
 package inhatc.cse.first_spring.game;
 
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
+@Qualifier("PackManGameQualifier")
 public class PackManGame implements GamingConsole
 {
 	public void up()

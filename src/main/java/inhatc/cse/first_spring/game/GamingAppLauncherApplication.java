@@ -1,7 +1,5 @@
-package inhatc.cse.first_spring;
+package inhatc.cse.first_spring.game;
 
-import inhatc.cse.first_spring.game.GameRunner;
-import inhatc.cse.first_spring.game.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
