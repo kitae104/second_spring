@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>inhatc.cse</groupId>
-	<artifactId>first_spring</artifactId>
+	<artifactId>second_spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>first_spring</name>
+	<name>second_spring</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
