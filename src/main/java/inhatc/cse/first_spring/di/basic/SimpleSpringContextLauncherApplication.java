@@ -1,4 +1,4 @@
-package inhatc.cse.first_spring.di.a0;
+package inhatc.cse.first_spring.di.basic;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
